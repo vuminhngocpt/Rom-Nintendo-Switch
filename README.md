@@ -7,3 +7,7 @@
 [Các tệp hệ điều hành Android](https://download.switchroot.org/android-11/) tệp ảnh hệ điều hành Android cho Nintendo Switch (Tệp cần thiết) 
 
 [Các Tệp Recovery](https://github.com/CTCaer/hekate/releases/) tệp Recovery nếu các bạn cài lên thẻ thớ mới hoặc trống 
+
+
+
+     ©️ Minh Ngoc 2024 data by Github
